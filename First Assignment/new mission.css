@@ -1,0 +1,118 @@
+.header{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position:top;
+    background-repeat: no-repeat;
+    border: 16px;
+   
+    background-image: url("Banner\ Image.png");
+   
+    border-radius: 16px;
+    
+    margin: 80px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    
+   
+    
+
+}
+
+#first{
+    color: #FFF;
+   
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+ 
+
+
+
+}
+.second{  color: #FFF;
+    position: absolute;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+
+ 
+}
+
+.boro{
+
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+ 
+    }
+
+.align{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+   
+}    
+
+
+
+.upper-image{
+    position: absolute;
+    top: 1700px; 
+    left: 1000px; 
+    width: 300px;
+    height: auto; 
+}
+
+.section{ width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position:top;
+    background-repeat: no-repeat;
+    border: 16px;
+    
+    margin: 80px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; }
+
+
+.new-section{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position:top;
+    background-repeat: no-repeat;
+    border: 16px;
+    margin: 80px;
+    text-align: left;
+   }
